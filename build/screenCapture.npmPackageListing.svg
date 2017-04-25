@@ -1,349 +1,349 @@
 <svg height="5534" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5534" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 03:04:07 +0000   960002 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 03:04:07 +0000    29790 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 03:04:07 +0000     1070 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 03:04:07 +0000     4489 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 03:04:07 +0000    22597 bytes  ROADMAP.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 03:04:07 +0000       44 bytes  bin/markoc</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 03:04:07 +0000     9954 bytes  bin/markoc.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 03:04:07 +0000      706 bytes  browser-refresh/index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 03:04:07 +0000    18157 bytes  compiler/Builder.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 03:04:07 +0000     8462 bytes  compiler/CodeGenerator.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 03:04:07 +0000     6940 bytes  compiler/CodeWriter.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 03:04:07 +0000    23255 bytes  compiler/CompileContext.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 03:04:07 +0000     1053 bytes  compiler/CompileError.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 03:04:07 +0000     6113 bytes  compiler/Compiler.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 03:04:07 +0000     3296 bytes  compiler/HtmlJsParser.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 03:04:07 +0000     1986 bytes  compiler/InlineCompiler.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 03:04:07 +0000    13028 bytes  compiler/Parser.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 03:04:07 +0000     3469 bytes  compiler/Walker.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 03:04:07 +0000     5366 bytes  compiler/ast/ArrayContainer.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 03:04:07 +0000     1546 bytes  compiler/ast/ArrayExpression.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 03:04:07 +0000     1626 bytes  compiler/ast/Assignment.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 03:04:07 +0000      768 bytes  compiler/ast/AttributePlaceholder.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 03:04:07 +0000     2838 bytes  compiler/ast/BinaryExpression.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 03:04:07 +0000      490 bytes  compiler/ast/Code.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 03:04:07 +0000      660 bytes  compiler/ast/Comment.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 03:04:07 +0000     1493 bytes  compiler/ast/ConditionalExpression.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 03:04:07 +0000      168 bytes  compiler/ast/Container.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 03:04:07 +0000      363 bytes  compiler/ast/ContainerNode.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 03:04:07 +0000    23374 bytes  compiler/ast/CustomTag.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 03:04:07 +0000      572 bytes  compiler/ast/Declaration.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 03:04:07 +0000      637 bytes  compiler/ast/DocumentType.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 03:04:07 +0000      648 bytes  compiler/ast/Else.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 03:04:07 +0000      683 bytes  compiler/ast/ElseIf.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 03:04:07 +0000      513 bytes  compiler/ast/Expression.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 03:04:07 +0000     3767 bytes  compiler/ast/ForEach.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 03:04:07 +0000     2486 bytes  compiler/ast/ForEachProp.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 03:04:07 +0000     1862 bytes  compiler/ast/ForRange.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 03:04:07 +0000     1325 bytes  compiler/ast/ForStatement.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 03:04:07 +0000     2555 bytes  compiler/ast/FunctionCall.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 03:04:07 +0000     2094 bytes  compiler/ast/FunctionDeclaration.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 03:04:07 +0000     2250 bytes  compiler/ast/Html.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 03:04:07 +0000     4243 bytes  compiler/ast/HtmlAttribute/html/generateCode.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 03:04:07 +0000     2247 bytes  compiler/ast/HtmlAttribute/index.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 03:04:07 +0000      948 bytes  compiler/ast/HtmlAttribute/vdom/generateCode.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 03:04:07 +0000     3891 bytes  compiler/ast/HtmlAttributeCollection.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 03:04:07 +0000      873 bytes  compiler/ast/HtmlComment.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 03:04:07 +0000      445 bytes  compiler/ast/HtmlElement/html/EndTag.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 03:04:07 +0000     1495 bytes  compiler/ast/HtmlElement/html/StartTag.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 03:04:07 +0000     2289 bytes  compiler/ast/HtmlElement/html/generateCode.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 03:04:07 +0000     6085 bytes  compiler/ast/HtmlElement/index.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 03:04:07 +0000      246 bytes  compiler/ast/HtmlElement/vdom/EndElementVDOM.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 03:04:07 +0000     8706 bytes  compiler/ast/HtmlElement/vdom/HtmlElementVDOM.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 03:04:07 +0000     2954 bytes  compiler/ast/HtmlElement/vdom/generateCode.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 03:04:07 +0000      410 bytes  compiler/ast/Identifier.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 03:04:07 +0000     2883 bytes  compiler/ast/If.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 03:04:07 +0000     3475 bytes  compiler/ast/InvokeMacro.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 03:04:07 +0000     3382 bytes  compiler/ast/Literal.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 03:04:07 +0000     2071 bytes  compiler/ast/LogicalExpression.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 03:04:07 +0000      985 bytes  compiler/ast/Macro.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 03:04:07 +0000     1917 bytes  compiler/ast/MemberExpression.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 03:04:07 +0000     2298 bytes  compiler/ast/NewExpression.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 03:04:07 +0000    11202 bytes  compiler/ast/Node.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 03:04:07 +0000     1597 bytes  compiler/ast/ObjectExpression.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 03:04:07 +0000      440 bytes  compiler/ast/Program.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 03:04:07 +0000     1474 bytes  compiler/ast/Property.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 03:04:07 +0000      741 bytes  compiler/ast/Return.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 03:04:07 +0000      591 bytes  compiler/ast/Scriptlet.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 03:04:07 +0000      969 bytes  compiler/ast/SelfInvokingFunction.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 03:04:07 +0000     1187 bytes  compiler/ast/SequenceExpression.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 03:04:07 +0000     5125 bytes  compiler/ast/TemplateRoot.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 03:04:07 +0000     1884 bytes  compiler/ast/Text/html/generateCode.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 03:04:07 +0000     1277 bytes  compiler/ast/Text/index.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 03:04:07 +0000     2374 bytes  compiler/ast/Text/vdom/TextVDOM.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 03:04:07 +0000     1187 bytes  compiler/ast/Text/vdom/generateCode.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 03:04:07 +0000      343 bytes  compiler/ast/ThisExpression.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 03:04:07 +0000     2043 bytes  compiler/ast/UnaryExpression.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 03:04:07 +0000     1819 bytes  compiler/ast/UpdateExpression.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 03:04:07 +0000     1316 bytes  compiler/ast/VariableDeclarator.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 03:04:07 +0000     1821 bytes  compiler/ast/Vars.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 03:04:07 +0000      774 bytes  compiler/ast/WhileStatement.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 03:04:07 +0000      165 bytes  compiler/browser.json</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 03:04:07 +0000     1822 bytes  compiler/config.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 03:04:07 +0000     7395 bytes  compiler/index.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 03:04:07 +0000      728 bytes  compiler/modules.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 03:04:07 +0000     4541 bytes  compiler/taglib-finder/index.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 03:04:07 +0000      298 bytes  compiler/taglib-loader/Attribute.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 03:04:07 +0000      302 bytes  compiler/taglib-loader/DependencyChain.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 03:04:07 +0000      171 bytes  compiler/taglib-loader/ImportedVariable.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 03:04:07 +0000      125 bytes  compiler/taglib-loader/NestedVariable.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 03:04:07 +0000      175 bytes  compiler/taglib-loader/Property.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 03:04:07 +0000     7006 bytes  compiler/taglib-loader/Tag.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 03:04:07 +0000     3042 bytes  compiler/taglib-loader/Taglib.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 03:04:07 +0000     1245 bytes  compiler/taglib-loader/Transformer.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 03:04:07 +0000      215 bytes  compiler/taglib-loader/cache.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 03:04:07 +0000      871 bytes  compiler/taglib-loader/index.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 03:04:07 +0000      435 bytes  compiler/taglib-loader/json-file-reader.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 03:04:07 +0000     5519 bytes  compiler/taglib-loader/loadAttributeFromProps.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 03:04:07 +0000      487 bytes  compiler/taglib-loader/loadAttributes.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 03:04:07 +0000      669 bytes  compiler/taglib-loader/loadTagFromFile.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 03:04:07 +0000    20348 bytes  compiler/taglib-loader/loadTagFromProps.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 03:04:07 +0000      698 bytes  compiler/taglib-loader/loadTaglibFromFile.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 03:04:07 +0000    12755 bytes  compiler/taglib-loader/loadTaglibFromProps.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 03:04:07 +0000      895 bytes  compiler/taglib-loader/loaders.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 03:04:07 +0000     5891 bytes  compiler/taglib-loader/scanTagsDir.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 03:04:07 +0000     1918 bytes  compiler/taglib-loader/tag-def-from-code.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 03:04:07 +0000      315 bytes  compiler/taglib-loader/types.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 03:04:07 +0000    12604 bytes  compiler/taglib-lookup/TaglibLookup.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 03:04:07 +0000     1728 bytes  compiler/taglib-lookup/index.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 03:04:07 +0000      606 bytes  compiler/util/PosInfo.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 03:04:07 +0000     1281 bytes  compiler/util/UniqueVars.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 03:04:07 +0000     1413 bytes  compiler/util/adjustIndent.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 03:04:07 +0000       38 bytes  compiler/util/deresolve.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 03:04:07 +0000       98 bytes  compiler/util/finger-print.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 03:04:07 +0000     1860 bytes  compiler/util/html-elements.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 03:04:07 +0000      309 bytes  compiler/util/isCompoundExpression.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 03:04:07 +0000      168 bytes  compiler/util/isJavaScriptReservedWord.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-18 03:04:07 +0000      144 bytes  compiler/util/isValidJavaScriptIdentifier.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-18 03:04:07 +0000      272 bytes  compiler/util/isValidJavaScriptVarName.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-18 03:04:07 +0000     1330 bytes  compiler/util/javaScriptReservedWords.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-18 03:04:07 +0000     1947 bytes  compiler/util/macros.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-18 03:04:07 +0000      165 bytes  compiler/util/parseExpression.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-18 03:04:07 +0000     8978 bytes  compiler/util/parseJavaScript.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-18 03:04:07 +0000      327 bytes  compiler/util/parseJavaScriptArgs.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-18 03:04:07 +0000      166 bytes  compiler/util/parseStatement.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-18 03:04:07 +0000     1233 bytes  compiler/util/removeComments.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-18 03:04:07 +0000      154 bytes  compiler/util/removeDashes.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-18 03:04:07 +0000      709 bytes  compiler/util/replacePlaceholderEscapeFuncs.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-18 03:04:07 +0000      504 bytes  compiler/util/safeVarName.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-18 03:04:07 +0000     1048 bytes  compiler/util/tokenizer.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-18 03:04:07 +0000     4423 bytes  compiler/util/vdom/VDOMOptimizer.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-18 03:04:07 +0000      495 bytes  compiler/util/vdom/index.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-18 03:04:07 +0000     1081 bytes  compiler/util/vdom/isStaticValue.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-18 03:04:07 +0000    18081 bytes  components/Component.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-18 03:04:07 +0000     5492 bytes  components/ComponentDef.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-18 03:04:07 +0000     3554 bytes  components/ComponentsContext.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-18 03:04:07 +0000     2724 bytes  components/State.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-18 03:04:07 +0000     1935 bytes  components/attach-detach.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-18 03:04:07 +0000       53 bytes  components/boot.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-18 03:04:07 +0000      339 bytes  components/browser.json</tspan>
-<tspan x="10" y="2250">139.  2017-04-18 03:04:07 +0000      716 bytes  components/bubble.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-18 03:04:07 +0000      153 bytes  components/compiler.browser.json</tspan>
-<tspan x="10" y="2282">141.  2017-04-18 03:04:07 +0000     1728 bytes  components/defineComponent.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-18 03:04:07 +0000     3739 bytes  components/event-delegation.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-18 03:04:07 +0000      749 bytes  components/index-browser.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-18 03:04:07 +0000     5803 bytes  components/index.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-18 03:04:07 +0000     6059 bytes  components/init-components-browser.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-18 03:04:07 +0000       71 bytes  components/init-components.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-18 03:04:07 +0000     2964 bytes  components/legacy/State-legacy.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-18 03:04:07 +0000      739 bytes  components/legacy/defineComponent-legacy.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-18 03:04:07 +0000     1089 bytes  components/legacy/defineRenderer-legacy.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-18 03:04:07 +0000     4424 bytes  components/legacy/defineWidget-legacy-browser.js</tspan>
-<tspan x="10" y="2442">151.  2017-04-18 03:04:07 +0000      410 bytes  components/legacy/defineWidget-legacy.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-18 03:04:07 +0000     1323 bytes  components/legacy/index.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-18 03:04:07 +0000     7278 bytes  components/legacy/renderer-legacy.js</tspan>
-<tspan x="10" y="2490">154.  2017-04-18 03:04:07 +0000      253 bytes  components/loadComponent-dynamic.js</tspan>
-<tspan x="10" y="2506">155.  2017-04-18 03:04:07 +0000      106 bytes  components/loadComponent.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-18 03:04:07 +0000      517 bytes  components/nextRepeatedId.js</tspan>
-<tspan x="10" y="2538">157.  2017-04-18 03:04:07 +0000      311 bytes  components/package.json</tspan>
-<tspan x="10" y="2554">158.  2017-04-18 03:04:07 +0000     1777 bytes  components/registry-browser.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-18 03:04:07 +0000     2161 bytes  components/registry.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-18 03:04:07 +0000     7325 bytes  components/renderer.js</tspan>
-<tspan x="10" y="2602">161.  2017-04-18 03:04:07 +0000     2427 bytes  components/taglib/TransformHelper/ComponentArgs.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 11:18:04 +0000   960002 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 11:18:04 +0000    29790 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 11:18:04 +0000     1070 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 11:18:04 +0000     4489 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 11:18:04 +0000    22597 bytes  ROADMAP.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 11:18:04 +0000       44 bytes  bin/markoc</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 11:18:04 +0000     9954 bytes  bin/markoc.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 11:18:04 +0000      706 bytes  browser-refresh/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 11:18:04 +0000    18157 bytes  compiler/Builder.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 11:18:04 +0000     8462 bytes  compiler/CodeGenerator.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 11:18:04 +0000     6940 bytes  compiler/CodeWriter.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 11:18:04 +0000    23255 bytes  compiler/CompileContext.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 11:18:04 +0000     1053 bytes  compiler/CompileError.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 11:18:04 +0000     6113 bytes  compiler/Compiler.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 11:18:04 +0000     3296 bytes  compiler/HtmlJsParser.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 11:18:04 +0000     1986 bytes  compiler/InlineCompiler.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 11:18:04 +0000    13028 bytes  compiler/Parser.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 11:18:04 +0000     3469 bytes  compiler/Walker.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 11:18:04 +0000     5366 bytes  compiler/ast/ArrayContainer.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 11:18:04 +0000     1546 bytes  compiler/ast/ArrayExpression.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 11:18:04 +0000     1626 bytes  compiler/ast/Assignment.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 11:18:04 +0000      768 bytes  compiler/ast/AttributePlaceholder.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 11:18:04 +0000     2838 bytes  compiler/ast/BinaryExpression.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 11:18:04 +0000      490 bytes  compiler/ast/Code.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 11:18:04 +0000      660 bytes  compiler/ast/Comment.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 11:18:04 +0000     1493 bytes  compiler/ast/ConditionalExpression.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 11:18:04 +0000      168 bytes  compiler/ast/Container.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 11:18:04 +0000      363 bytes  compiler/ast/ContainerNode.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 11:18:04 +0000    23374 bytes  compiler/ast/CustomTag.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 11:18:04 +0000      572 bytes  compiler/ast/Declaration.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 11:18:04 +0000      637 bytes  compiler/ast/DocumentType.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 11:18:04 +0000      648 bytes  compiler/ast/Else.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 11:18:04 +0000      683 bytes  compiler/ast/ElseIf.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 11:18:04 +0000      513 bytes  compiler/ast/Expression.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 11:18:04 +0000     3767 bytes  compiler/ast/ForEach.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 11:18:04 +0000     2486 bytes  compiler/ast/ForEachProp.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 11:18:04 +0000     1862 bytes  compiler/ast/ForRange.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 11:18:04 +0000     1325 bytes  compiler/ast/ForStatement.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 11:18:04 +0000     2555 bytes  compiler/ast/FunctionCall.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 11:18:04 +0000     2094 bytes  compiler/ast/FunctionDeclaration.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 11:18:04 +0000     2250 bytes  compiler/ast/Html.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 11:18:04 +0000     4243 bytes  compiler/ast/HtmlAttribute/html/generateCode.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 11:18:04 +0000     2247 bytes  compiler/ast/HtmlAttribute/index.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 11:18:04 +0000      948 bytes  compiler/ast/HtmlAttribute/vdom/generateCode.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 11:18:04 +0000     3891 bytes  compiler/ast/HtmlAttributeCollection.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 11:18:04 +0000      873 bytes  compiler/ast/HtmlComment.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 11:18:04 +0000      445 bytes  compiler/ast/HtmlElement/html/EndTag.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 11:18:04 +0000     1495 bytes  compiler/ast/HtmlElement/html/StartTag.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 11:18:04 +0000     2289 bytes  compiler/ast/HtmlElement/html/generateCode.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 11:18:04 +0000     6085 bytes  compiler/ast/HtmlElement/index.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 11:18:04 +0000      246 bytes  compiler/ast/HtmlElement/vdom/EndElementVDOM.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 11:18:04 +0000     8706 bytes  compiler/ast/HtmlElement/vdom/HtmlElementVDOM.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 11:18:04 +0000     2954 bytes  compiler/ast/HtmlElement/vdom/generateCode.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 11:18:04 +0000      410 bytes  compiler/ast/Identifier.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 11:18:04 +0000     2883 bytes  compiler/ast/If.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 11:18:04 +0000     3475 bytes  compiler/ast/InvokeMacro.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 11:18:04 +0000     3382 bytes  compiler/ast/Literal.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 11:18:04 +0000     2071 bytes  compiler/ast/LogicalExpression.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 11:18:04 +0000      985 bytes  compiler/ast/Macro.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 11:18:04 +0000     1917 bytes  compiler/ast/MemberExpression.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 11:18:04 +0000     2298 bytes  compiler/ast/NewExpression.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-25 11:18:04 +0000    11202 bytes  compiler/ast/Node.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-25 11:18:04 +0000     1597 bytes  compiler/ast/ObjectExpression.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-25 11:18:04 +0000      440 bytes  compiler/ast/Program.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-25 11:18:04 +0000     1474 bytes  compiler/ast/Property.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-25 11:18:04 +0000      741 bytes  compiler/ast/Return.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-25 11:18:04 +0000      591 bytes  compiler/ast/Scriptlet.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-25 11:18:04 +0000      969 bytes  compiler/ast/SelfInvokingFunction.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-25 11:18:04 +0000     1187 bytes  compiler/ast/SequenceExpression.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-25 11:18:04 +0000     5125 bytes  compiler/ast/TemplateRoot.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-25 11:18:04 +0000     1884 bytes  compiler/ast/Text/html/generateCode.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-25 11:18:04 +0000     1277 bytes  compiler/ast/Text/index.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-25 11:18:04 +0000     2374 bytes  compiler/ast/Text/vdom/TextVDOM.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-25 11:18:04 +0000     1187 bytes  compiler/ast/Text/vdom/generateCode.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-25 11:18:04 +0000      343 bytes  compiler/ast/ThisExpression.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-25 11:18:04 +0000     2043 bytes  compiler/ast/UnaryExpression.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-25 11:18:04 +0000     1819 bytes  compiler/ast/UpdateExpression.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-25 11:18:04 +0000     1316 bytes  compiler/ast/VariableDeclarator.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-25 11:18:04 +0000     1821 bytes  compiler/ast/Vars.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-25 11:18:04 +0000      774 bytes  compiler/ast/WhileStatement.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-25 11:18:04 +0000      165 bytes  compiler/browser.json</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-25 11:18:04 +0000     1822 bytes  compiler/config.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-25 11:18:04 +0000     7395 bytes  compiler/index.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-25 11:18:04 +0000      728 bytes  compiler/modules.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-25 11:18:04 +0000     4541 bytes  compiler/taglib-finder/index.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-25 11:18:04 +0000      298 bytes  compiler/taglib-loader/Attribute.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-25 11:18:04 +0000      302 bytes  compiler/taglib-loader/DependencyChain.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-25 11:18:04 +0000      171 bytes  compiler/taglib-loader/ImportedVariable.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-25 11:18:04 +0000      125 bytes  compiler/taglib-loader/NestedVariable.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-25 11:18:04 +0000      175 bytes  compiler/taglib-loader/Property.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-25 11:18:04 +0000     7006 bytes  compiler/taglib-loader/Tag.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-25 11:18:04 +0000     3042 bytes  compiler/taglib-loader/Taglib.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-25 11:18:04 +0000     1245 bytes  compiler/taglib-loader/Transformer.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-25 11:18:04 +0000      215 bytes  compiler/taglib-loader/cache.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-25 11:18:04 +0000      871 bytes  compiler/taglib-loader/index.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-25 11:18:04 +0000      435 bytes  compiler/taglib-loader/json-file-reader.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-25 11:18:04 +0000     5519 bytes  compiler/taglib-loader/loadAttributeFromProps.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-25 11:18:04 +0000      487 bytes  compiler/taglib-loader/loadAttributes.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-25 11:18:04 +0000      669 bytes  compiler/taglib-loader/loadTagFromFile.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-25 11:18:04 +0000    20348 bytes  compiler/taglib-loader/loadTagFromProps.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-25 11:18:04 +0000      698 bytes  compiler/taglib-loader/loadTaglibFromFile.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-25 11:18:04 +0000    12755 bytes  compiler/taglib-loader/loadTaglibFromProps.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-25 11:18:04 +0000      895 bytes  compiler/taglib-loader/loaders.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-25 11:18:04 +0000     5891 bytes  compiler/taglib-loader/scanTagsDir.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-25 11:18:04 +0000     1918 bytes  compiler/taglib-loader/tag-def-from-code.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-25 11:18:04 +0000      315 bytes  compiler/taglib-loader/types.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-25 11:18:04 +0000    12604 bytes  compiler/taglib-lookup/TaglibLookup.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-25 11:18:04 +0000     1728 bytes  compiler/taglib-lookup/index.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-25 11:18:04 +0000      606 bytes  compiler/util/PosInfo.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-25 11:18:04 +0000     1281 bytes  compiler/util/UniqueVars.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-25 11:18:04 +0000     1413 bytes  compiler/util/adjustIndent.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-25 11:18:04 +0000       38 bytes  compiler/util/deresolve.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-25 11:18:04 +0000       98 bytes  compiler/util/finger-print.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-25 11:18:04 +0000     1860 bytes  compiler/util/html-elements.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-25 11:18:04 +0000      309 bytes  compiler/util/isCompoundExpression.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-25 11:18:04 +0000      168 bytes  compiler/util/isJavaScriptReservedWord.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-25 11:18:04 +0000      144 bytes  compiler/util/isValidJavaScriptIdentifier.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-25 11:18:04 +0000      272 bytes  compiler/util/isValidJavaScriptVarName.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-25 11:18:04 +0000     1330 bytes  compiler/util/javaScriptReservedWords.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-25 11:18:04 +0000     1947 bytes  compiler/util/macros.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-25 11:18:04 +0000      165 bytes  compiler/util/parseExpression.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-25 11:18:04 +0000     8978 bytes  compiler/util/parseJavaScript.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-25 11:18:04 +0000      327 bytes  compiler/util/parseJavaScriptArgs.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-25 11:18:04 +0000      166 bytes  compiler/util/parseStatement.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-25 11:18:04 +0000     1233 bytes  compiler/util/removeComments.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-25 11:18:04 +0000      154 bytes  compiler/util/removeDashes.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-25 11:18:04 +0000      709 bytes  compiler/util/replacePlaceholderEscapeFuncs.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-25 11:18:04 +0000      504 bytes  compiler/util/safeVarName.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-25 11:18:04 +0000     1048 bytes  compiler/util/tokenizer.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-25 11:18:04 +0000     4423 bytes  compiler/util/vdom/VDOMOptimizer.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-25 11:18:04 +0000      495 bytes  compiler/util/vdom/index.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-25 11:18:04 +0000     1081 bytes  compiler/util/vdom/isStaticValue.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-25 11:18:04 +0000    18081 bytes  components/Component.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-25 11:18:04 +0000     5492 bytes  components/ComponentDef.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-25 11:18:04 +0000     3554 bytes  components/ComponentsContext.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-25 11:18:04 +0000     2724 bytes  components/State.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-25 11:18:04 +0000     1935 bytes  components/attach-detach.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-25 11:18:04 +0000       53 bytes  components/boot.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-25 11:18:04 +0000      339 bytes  components/browser.json</tspan>
+<tspan x="10" y="2250">139.  2017-04-25 11:18:04 +0000      716 bytes  components/bubble.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-25 11:18:04 +0000      153 bytes  components/compiler.browser.json</tspan>
+<tspan x="10" y="2282">141.  2017-04-25 11:18:04 +0000     1728 bytes  components/defineComponent.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-25 11:18:04 +0000     3739 bytes  components/event-delegation.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-25 11:18:04 +0000      749 bytes  components/index-browser.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-25 11:18:04 +0000     5803 bytes  components/index.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-25 11:18:04 +0000     6059 bytes  components/init-components-browser.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-25 11:18:04 +0000       71 bytes  components/init-components.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-25 11:18:04 +0000     2964 bytes  components/legacy/State-legacy.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-25 11:18:04 +0000      739 bytes  components/legacy/defineComponent-legacy.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-25 11:18:04 +0000     1089 bytes  components/legacy/defineRenderer-legacy.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-25 11:18:04 +0000     4424 bytes  components/legacy/defineWidget-legacy-browser.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-25 11:18:04 +0000      410 bytes  components/legacy/defineWidget-legacy.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-25 11:18:04 +0000     1323 bytes  components/legacy/index.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-25 11:18:04 +0000     7278 bytes  components/legacy/renderer-legacy.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-25 11:18:04 +0000      253 bytes  components/loadComponent-dynamic.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-25 11:18:04 +0000      106 bytes  components/loadComponent.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-25 11:18:04 +0000      517 bytes  components/nextRepeatedId.js</tspan>
+<tspan x="10" y="2538">157.  2017-04-25 11:18:04 +0000      311 bytes  components/package.json</tspan>
+<tspan x="10" y="2554">158.  2017-04-25 11:18:04 +0000     1777 bytes  components/registry-browser.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-25 11:18:04 +0000     2161 bytes  components/registry.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-25 11:18:04 +0000     7325 bytes  components/renderer.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-25 11:18:04 +0000     2427 bytes  components/taglib/TransformHelper/ComponentArgs.\</tspan>
 <tspan x="10" y="2618">js</tspan>
-<tspan x="10" y="2634">162.  2017-04-18 03:04:07 +0000     5492 bytes  components/taglib/TransformHelper/assignComponen\</tspan>
+<tspan x="10" y="2634">162.  2017-04-25 11:18:04 +0000     5492 bytes  components/taglib/TransformHelper/assignComponen\</tspan>
 <tspan x="10" y="2650">tId.js</tspan>
-<tspan x="10" y="2666">163.  2017-04-18 03:04:07 +0000     1233 bytes  components/taglib/TransformHelper/getComponentFi\</tspan>
+<tspan x="10" y="2666">163.  2017-04-25 11:18:04 +0000     1233 bytes  components/taglib/TransformHelper/getComponentFi\</tspan>
 <tspan x="10" y="2682">les.js</tspan>
-<tspan x="10" y="2698">164.  2017-04-18 03:04:07 +0000     9351 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
+<tspan x="10" y="2698">164.  2017-04-25 11:18:04 +0000     9351 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
 <tspan x="10" y="2714">tBind.js</tspan>
-<tspan x="10" y="2730">165.  2017-04-18 03:04:07 +0000     7333 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
+<tspan x="10" y="2730">165.  2017-04-25 11:18:04 +0000     7333 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
 <tspan x="10" y="2746">tEvents.js</tspan>
-<tspan x="10" y="2762">166.  2017-04-18 03:04:07 +0000     1351 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
+<tspan x="10" y="2762">166.  2017-04-25 11:18:04 +0000     1351 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
 <tspan x="10" y="2778">tFor.js</tspan>
-<tspan x="10" y="2794">167.  2017-04-18 03:04:07 +0000     4680 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
+<tspan x="10" y="2794">167.  2017-04-25 11:18:04 +0000     4680 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
 <tspan x="10" y="2810">tPreserve.js</tspan>
-<tspan x="10" y="2826">168.  2017-04-18 03:04:07 +0000     1792 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
+<tspan x="10" y="2826">168.  2017-04-25 11:18:04 +0000     1792 bytes  components/taglib/TransformHelper/handleComponen\</tspan>
 <tspan x="10" y="2842">tPreserveAttrs.js</tspan>
-<tspan x="10" y="2858">169.  2017-04-18 03:04:07 +0000     2330 bytes  components/taglib/TransformHelper/handleIncludeN\</tspan>
+<tspan x="10" y="2858">169.  2017-04-25 11:18:04 +0000     2330 bytes  components/taglib/TransformHelper/handleIncludeN\</tspan>
 <tspan x="10" y="2874">ode.js</tspan>
-<tspan x="10" y="2890">170.  2017-04-18 03:04:07 +0000     7845 bytes  components/taglib/TransformHelper/handleRootNode\</tspan>
+<tspan x="10" y="2890">170.  2017-04-25 11:18:04 +0000     7845 bytes  components/taglib/TransformHelper/handleRootNode\</tspan>
 <tspan x="10" y="2906">s.js</tspan>
-<tspan x="10" y="2922">171.  2017-04-18 03:04:07 +0000     4603 bytes  components/taglib/TransformHelper/index.js</tspan>
-<tspan x="10" y="2938">172.  2017-04-18 03:04:07 +0000      380 bytes  components/taglib/body-transformer.js</tspan>
-<tspan x="10" y="2954">173.  2017-04-18 03:04:07 +0000      987 bytes  components/taglib/component-tag.js</tspan>
-<tspan x="10" y="2970">174.  2017-04-18 03:04:07 +0000     3501 bytes  components/taglib/components-transformer.js</tspan>
-<tspan x="10" y="2986">175.  2017-04-18 03:04:07 +0000      107 bytes  components/taglib/getRequirePath-browser.js</tspan>
-<tspan x="10" y="3002">176.  2017-04-18 03:04:07 +0000      474 bytes  components/taglib/getRequirePath.js</tspan>
-<tspan x="10" y="3018">177.  2017-04-18 03:04:07 +0000      422 bytes  components/taglib/helpers/bindComponent.js</tspan>
-<tspan x="10" y="3034">178.  2017-04-18 03:04:07 +0000      221 bytes  components/taglib/helpers/componentArgs.js</tspan>
-<tspan x="10" y="3050">179.  2017-04-18 03:04:07 +0000      656 bytes  components/taglib/helpers/getCurrentComponent.js</tspan>
-<tspan x="10" y="3066">180.  2017-04-18 03:04:07 +0000      117 bytes  components/taglib/helpers/package.json</tspan>
-<tspan x="10" y="3082">181.  2017-04-18 03:04:07 +0000      164 bytes  components/taglib/helpers/renderComponent.js</tspan>
-<tspan x="10" y="3098">182.  2017-04-18 03:04:07 +0000      759 bytes  components/taglib/include-tag-browser.js</tspan>
-<tspan x="10" y="3114">183.  2017-04-18 03:04:07 +0000      146 bytes  components/taglib/include-tag.js</tspan>
-<tspan x="10" y="3130">184.  2017-04-18 03:04:07 +0000       74 bytes  components/taglib/init-components-tag-browser.js</tspan>
-<tspan x="10" y="3146">185.  2017-04-18 03:04:07 +0000     1559 bytes  components/taglib/init-components-tag.js</tspan>
-<tspan x="10" y="3162">186.  2017-04-18 03:04:07 +0000     5845 bytes  components/taglib/marko.json</tspan>
-<tspan x="10" y="3178">187.  2017-04-18 03:04:07 +0000      216 bytes  components/taglib/package.json</tspan>
-<tspan x="10" y="3194">188.  2017-04-18 03:04:07 +0000     1816 bytes  components/taglib/preserve-tag.js</tspan>
-<tspan x="10" y="3210">189.  2017-04-18 03:04:07 +0000     2386 bytes  components/taglib/util/generateRegisterComponent\</tspan>
+<tspan x="10" y="2922">171.  2017-04-25 11:18:04 +0000     4603 bytes  components/taglib/TransformHelper/index.js</tspan>
+<tspan x="10" y="2938">172.  2017-04-25 11:18:04 +0000      380 bytes  components/taglib/body-transformer.js</tspan>
+<tspan x="10" y="2954">173.  2017-04-25 11:18:04 +0000      987 bytes  components/taglib/component-tag.js</tspan>
+<tspan x="10" y="2970">174.  2017-04-25 11:18:04 +0000     3501 bytes  components/taglib/components-transformer.js</tspan>
+<tspan x="10" y="2986">175.  2017-04-25 11:18:04 +0000      107 bytes  components/taglib/getRequirePath-browser.js</tspan>
+<tspan x="10" y="3002">176.  2017-04-25 11:18:04 +0000      474 bytes  components/taglib/getRequirePath.js</tspan>
+<tspan x="10" y="3018">177.  2017-04-25 11:18:04 +0000      422 bytes  components/taglib/helpers/bindComponent.js</tspan>
+<tspan x="10" y="3034">178.  2017-04-25 11:18:04 +0000      221 bytes  components/taglib/helpers/componentArgs.js</tspan>
+<tspan x="10" y="3050">179.  2017-04-25 11:18:04 +0000      656 bytes  components/taglib/helpers/getCurrentComponent.js</tspan>
+<tspan x="10" y="3066">180.  2017-04-25 11:18:04 +0000      117 bytes  components/taglib/helpers/package.json</tspan>
+<tspan x="10" y="3082">181.  2017-04-25 11:18:04 +0000      164 bytes  components/taglib/helpers/renderComponent.js</tspan>
+<tspan x="10" y="3098">182.  2017-04-25 11:18:04 +0000      759 bytes  components/taglib/include-tag-browser.js</tspan>
+<tspan x="10" y="3114">183.  2017-04-25 11:18:04 +0000      146 bytes  components/taglib/include-tag.js</tspan>
+<tspan x="10" y="3130">184.  2017-04-25 11:18:04 +0000       74 bytes  components/taglib/init-components-tag-browser.js</tspan>
+<tspan x="10" y="3146">185.  2017-04-25 11:18:04 +0000     1559 bytes  components/taglib/init-components-tag.js</tspan>
+<tspan x="10" y="3162">186.  2017-04-25 11:18:04 +0000     5845 bytes  components/taglib/marko.json</tspan>
+<tspan x="10" y="3178">187.  2017-04-25 11:18:04 +0000      216 bytes  components/taglib/package.json</tspan>
+<tspan x="10" y="3194">188.  2017-04-25 11:18:04 +0000     1816 bytes  components/taglib/preserve-tag.js</tspan>
+<tspan x="10" y="3210">189.  2017-04-25 11:18:04 +0000     2386 bytes  components/taglib/util/generateRegisterComponent\</tspan>
 <tspan x="10" y="3226">Code.js</tspan>
-<tspan x="10" y="3242">190.  2017-04-18 03:04:07 +0000      142 bytes  components/taglib/util/getTransformHelper.js</tspan>
-<tspan x="10" y="3258">191.  2017-04-18 03:04:07 +0000     1331 bytes  components/taglib/widget-types-tag.js</tspan>
-<tspan x="10" y="3274">192.  2017-04-18 03:04:07 +0000     3391 bytes  components/update-manager.js</tspan>
-<tspan x="10" y="3290">193.  2017-04-18 03:04:07 +0000     3772 bytes  components/util-browser.js</tspan>
-<tspan x="10" y="3306">194.  2017-04-18 03:04:07 +0000     1392 bytes  components/util.js</tspan>
-<tspan x="10" y="3322">195.  2017-04-18 03:04:07 +0000     1572 bytes  defineRenderer.js</tspan>
-<tspan x="10" y="3338">196.  2017-04-18 03:04:07 +0000      535 bytes  docs/browserify.md</tspan>
-<tspan x="10" y="3354">197.  2017-04-18 03:04:07 +0000    25789 bytes  docs/components.md</tspan>
-<tspan x="10" y="3370">198.  2017-04-18 03:04:07 +0000     2211 bytes  docs/concise.md</tspan>
-<tspan x="10" y="3386">199.  2017-04-18 03:04:07 +0000    11521 bytes  docs/core-tags.md</tspan>
-<tspan x="10" y="3402">200.  2017-04-18 03:04:07 +0000     5626 bytes  docs/custom-tags.md</tspan>
-<tspan x="10" y="3418">201.  2017-04-18 03:04:07 +0000      918 bytes  docs/editor-plugins.md</tspan>
-<tspan x="10" y="3434">202.  2017-04-18 03:04:07 +0000     1567 bytes  docs/express.md</tspan>
-<tspan x="10" y="3450">203.  2017-04-18 03:04:07 +0000     2236 bytes  docs/getting-started.md</tspan>
-<tspan x="10" y="3466">204.  2017-04-18 03:04:07 +0000      542 bytes  docs/hapi.md</tspan>
-<tspan x="10" y="3482">205.  2017-04-18 03:04:07 +0000     5293 bytes  docs/installing.md</tspan>
-<tspan x="10" y="3498">206.  2017-04-18 03:04:07 +0000     1190 bytes  docs/koa.md</tspan>
-<tspan x="10" y="3514">207.  2017-04-18 03:04:07 +0000     3271 bytes  docs/lasso.md</tspan>
-<tspan x="10" y="3530">208.  2017-04-18 03:04:07 +0000    24569 bytes  docs/marko-v4.md</tspan>
-<tspan x="10" y="3546">209.  2017-04-18 03:04:07 +0000      222 bytes  docs/reference/coming-soon.md</tspan>
-<tspan x="10" y="3562">210.  2017-04-18 03:04:07 +0000     6628 bytes  docs/rendering.md</tspan>
-<tspan x="10" y="3578">211.  2017-04-18 03:04:07 +0000     1883 bytes  docs/rollup.md</tspan>
-<tspan x="10" y="3594">212.  2017-04-18 03:04:07 +0000     3131 bytes  docs/server-side-rendering.md</tspan>
-<tspan x="10" y="3610">213.  2017-04-18 03:04:07 +0000      559 bytes  docs/structure.json</tspan>
-<tspan x="10" y="3626">214.  2017-04-18 03:04:07 +0000     7329 bytes  docs/syntax.md</tspan>
-<tspan x="10" y="3642">215.  2017-04-18 03:04:07 +0000     3360 bytes  docs/webpack.md</tspan>
-<tspan x="10" y="3658">216.  2017-04-18 03:04:07 +0000     1404 bytes  express.js</tspan>
-<tspan x="10" y="3674">217.  2017-04-18 03:04:07 +0000      338 bytes  helpers/README.md</tspan>
-<tspan x="10" y="3690">218.  2017-04-18 03:04:07 +0000       98 bytes  helpers/empty.js</tspan>
-<tspan x="10" y="3706">219.  2017-04-18 03:04:07 +0000      220 bytes  helpers/notEmpty.js</tspan>
-<tspan x="10" y="3722">220.  2017-04-18 03:04:07 +0000     5659 bytes  hot-reload/index.js</tspan>
-<tspan x="10" y="3738">221.  2017-04-18 03:04:07 +0000       43 bytes  html.js</tspan>
-<tspan x="10" y="3754">222.  2017-04-18 03:04:07 +0000     1809 bytes  jquery.js</tspan>
-<tspan x="10" y="3770">223.  2017-04-18 03:04:07 +0000    13284 bytes  morphdom/index.js</tspan>
-<tspan x="10" y="3786">224.  2017-04-18 03:04:07 +0000     2451 bytes  morphdom/specialElHandlers.js</tspan>
-<tspan x="10" y="3802">225.  2017-04-18 03:04:07 +0000       32 bytes  node-require-browser.js</tspan>
-<tspan x="10" y="3818">226.  2017-04-18 03:04:07 +0000     5004 bytes  node-require.js</tspan>
-<tspan x="10" y="3834">227.  2017-04-18 03:04:07 +0000     6830 bytes  package.json</tspan>
-<tspan x="10" y="3850">228.  2017-04-18 03:04:07 +0000     4614 bytes  ready.js</tspan>
-<tspan x="10" y="3866">229.  2017-04-18 03:04:07 +0000     2112 bytes  runtime/RenderResult.js</tspan>
-<tspan x="10" y="3882">230.  2017-04-18 03:04:07 +0000       89 bytes  runtime/compiler.browser.json</tspan>
-<tspan x="10" y="3898">231.  2017-04-18 03:04:07 +0000      247 bytes  runtime/createOut.js</tspan>
-<tspan x="10" y="3914">232.  2017-04-18 03:04:07 +0000       94 bytes  runtime/dependencies/html.js</tspan>
-<tspan x="10" y="3930">233.  2017-04-18 03:04:07 +0000     2376 bytes  runtime/dependencies/index.js</tspan>
-<tspan x="10" y="3946">234.  2017-04-18 03:04:07 +0000       94 bytes  runtime/dependencies/vdom.js</tspan>
-<tspan x="10" y="3962">235.  2017-04-18 03:04:07 +0000     2892 bytes  runtime/dom-insert.js</tspan>
-<tspan x="10" y="3978">236.  2017-04-18 03:04:07 +0000     1319 bytes  runtime/env-init.js</tspan>
-<tspan x="10" y="3994">237.  2017-04-18 03:04:07 +0000       80 bytes  runtime/events.js</tspan>
-<tspan x="10" y="4010">238.  2017-04-18 03:04:07 +0000      840 bytes  runtime/helper-forEachPropStatusVar.js</tspan>
-<tspan x="10" y="4026">239.  2017-04-18 03:04:07 +0000      580 bytes  runtime/helper-forEachProperty.js</tspan>
-<tspan x="10" y="4042">240.  2017-04-18 03:04:07 +0000      799 bytes  runtime/helper-forEachWithStatusVar.js</tspan>
-<tspan x="10" y="4058">241.  2017-04-18 03:04:07 +0000      342 bytes  runtime/helper-forRange.js</tspan>
-<tspan x="10" y="4074">242.  2017-04-18 03:04:07 +0000      499 bytes  runtime/helper-loadNestedTag.js</tspan>
-<tspan x="10" y="4090">243.  2017-04-18 03:04:07 +0000       65 bytes  runtime/helper-loadTemplate.js</tspan>
-<tspan x="10" y="4106">244.  2017-04-18 03:04:07 +0000      377 bytes  runtime/helper-merge.js</tspan>
-<tspan x="10" y="4122">245.  2017-04-18 03:04:07 +0000      365 bytes  runtime/helper-mergeNestedTags.js</tspan>
-<tspan x="10" y="4138">246.  2017-04-18 03:04:07 +0000     3119 bytes  runtime/helpers.js</tspan>
-<tspan x="10" y="4154">247.  2017-04-18 03:04:07 +0000    14639 bytes  runtime/html/AsyncStream.js</tspan>
-<tspan x="10" y="4170">248.  2017-04-18 03:04:07 +0000      928 bytes  runtime/html/BufferedWriter.js</tspan>
-<tspan x="10" y="4186">249.  2017-04-18 03:04:07 +0000      377 bytes  runtime/html/StringWriter.js</tspan>
-<tspan x="10" y="4202">250.  2017-04-18 03:04:07 +0000      632 bytes  runtime/html/Template.js</tspan>
-<tspan x="10" y="4218">251.  2017-04-18 03:04:07 +0000     1346 bytes  runtime/html/escape.js</tspan>
-<tspan x="10" y="4234">252.  2017-04-18 03:04:07 +0000      925 bytes  runtime/html/helper-attr.js</tspan>
-<tspan x="10" y="4250">253.  2017-04-18 03:04:07 +0000      354 bytes  runtime/html/helper-attrs.js</tspan>
-<tspan x="10" y="4266">254.  2017-04-18 03:04:07 +0000      130 bytes  runtime/html/helper-createInlineTemplate.js</tspan>
-<tspan x="10" y="4282">255.  2017-04-18 03:04:07 +0000     4676 bytes  runtime/html/helpers.js</tspan>
-<tspan x="10" y="4298">256.  2017-04-18 03:04:07 +0000      803 bytes  runtime/html/index.js</tspan>
-<tspan x="10" y="4314">257.  2017-04-18 03:04:07 +0000      221 bytes  runtime/index.js</tspan>
-<tspan x="10" y="4330">258.  2017-04-18 03:04:07 +0000      132 bytes  runtime/loader/browser.json</tspan>
-<tspan x="10" y="4346">259.  2017-04-18 03:04:07 +0000      244 bytes  runtime/loader/index-browser-dynamic.js</tspan>
-<tspan x="10" y="4362">260.  2017-04-18 03:04:07 +0000      110 bytes  runtime/loader/index-browser.js</tspan>
-<tspan x="10" y="4378">261.  2017-04-18 03:04:07 +0000     5076 bytes  runtime/loader/index-default.js</tspan>
-<tspan x="10" y="4394">262.  2017-04-18 03:04:07 +0000      247 bytes  runtime/loader/index.js</tspan>
-<tspan x="10" y="4410">263.  2017-04-18 03:04:07 +0000      768 bytes  runtime/nextTick-browser.js</tspan>
-<tspan x="10" y="4426">264.  2017-04-18 03:04:07 +0000       35 bytes  runtime/nextTick.js</tspan>
-<tspan x="10" y="4442">265.  2017-04-18 03:04:07 +0000      163 bytes  runtime/package.json</tspan>
-<tspan x="10" y="4458">266.  2017-04-18 03:04:07 +0000     4362 bytes  runtime/renderable.js</tspan>
-<tspan x="10" y="4474">267.  2017-04-18 03:04:07 +0000     1455 bytes  runtime/stream.js</tspan>
-<tspan x="10" y="4490">268.  2017-04-18 03:04:07 +0000     8350 bytes  runtime/vdom/AsyncVDOMBuilder.js</tspan>
-<tspan x="10" y="4506">269.  2017-04-18 03:04:07 +0000      454 bytes  runtime/vdom/VComment.js</tspan>
-<tspan x="10" y="4522">270.  2017-04-18 03:04:07 +0000      777 bytes  runtime/vdom/VDocumentFragment.js</tspan>
-<tspan x="10" y="4538">271.  2017-04-18 03:04:07 +0000    10756 bytes  runtime/vdom/VElement.js</tspan>
-<tspan x="10" y="4554">272.  2017-04-18 03:04:07 +0000     3388 bytes  runtime/vdom/VNode.js</tspan>
-<tspan x="10" y="4570">273.  2017-04-18 03:04:07 +0000      460 bytes  runtime/vdom/VText.js</tspan>
-<tspan x="10" y="4586">274.  2017-04-18 03:04:07 +0000      131 bytes  runtime/vdom/helper-createInlineTemplate.js</tspan>
-<tspan x="10" y="4602">275.  2017-04-18 03:04:07 +0000      969 bytes  runtime/vdom/helper-styleAttr.js</tspan>
-<tspan x="10" y="4618">276.  2017-04-18 03:04:07 +0000     1076 bytes  runtime/vdom/helpers.js</tspan>
-<tspan x="10" y="4634">277.  2017-04-18 03:04:07 +0000      911 bytes  runtime/vdom/index.js</tspan>
-<tspan x="10" y="4650">278.  2017-04-18 03:04:07 +0000      475 bytes  runtime/vdom/preserve-attrs.js</tspan>
-<tspan x="10" y="4666">279.  2017-04-18 03:04:07 +0000     3808 bytes  runtime/vdom/vdom.js</tspan>
-<tspan x="10" y="4682">280.  2017-04-18 03:04:07 +0000      410 bytes  stream.js</tspan>
-<tspan x="10" y="4698">281.  2017-04-18 03:04:07 +0000     1464 bytes  taglibs/async/async-fragment-to-await-transforme\</tspan>
+<tspan x="10" y="3242">190.  2017-04-25 11:18:04 +0000      142 bytes  components/taglib/util/getTransformHelper.js</tspan>
+<tspan x="10" y="3258">191.  2017-04-25 11:18:04 +0000     1331 bytes  components/taglib/widget-types-tag.js</tspan>
+<tspan x="10" y="3274">192.  2017-04-25 11:18:04 +0000     3391 bytes  components/update-manager.js</tspan>
+<tspan x="10" y="3290">193.  2017-04-25 11:18:04 +0000     3772 bytes  components/util-browser.js</tspan>
+<tspan x="10" y="3306">194.  2017-04-25 11:18:04 +0000     1392 bytes  components/util.js</tspan>
+<tspan x="10" y="3322">195.  2017-04-25 11:18:04 +0000     1572 bytes  defineRenderer.js</tspan>
+<tspan x="10" y="3338">196.  2017-04-25 11:18:04 +0000      535 bytes  docs/browserify.md</tspan>
+<tspan x="10" y="3354">197.  2017-04-25 11:18:04 +0000    25789 bytes  docs/components.md</tspan>
+<tspan x="10" y="3370">198.  2017-04-25 11:18:04 +0000     2211 bytes  docs/concise.md</tspan>
+<tspan x="10" y="3386">199.  2017-04-25 11:18:04 +0000    11521 bytes  docs/core-tags.md</tspan>
+<tspan x="10" y="3402">200.  2017-04-25 11:18:04 +0000     5626 bytes  docs/custom-tags.md</tspan>
+<tspan x="10" y="3418">201.  2017-04-25 11:18:04 +0000      918 bytes  docs/editor-plugins.md</tspan>
+<tspan x="10" y="3434">202.  2017-04-25 11:18:04 +0000     1567 bytes  docs/express.md</tspan>
+<tspan x="10" y="3450">203.  2017-04-25 11:18:04 +0000     2236 bytes  docs/getting-started.md</tspan>
+<tspan x="10" y="3466">204.  2017-04-25 11:18:04 +0000      542 bytes  docs/hapi.md</tspan>
+<tspan x="10" y="3482">205.  2017-04-25 11:18:04 +0000     5293 bytes  docs/installing.md</tspan>
+<tspan x="10" y="3498">206.  2017-04-25 11:18:04 +0000     1190 bytes  docs/koa.md</tspan>
+<tspan x="10" y="3514">207.  2017-04-25 11:18:04 +0000     3271 bytes  docs/lasso.md</tspan>
+<tspan x="10" y="3530">208.  2017-04-25 11:18:04 +0000    24569 bytes  docs/marko-v4.md</tspan>
+<tspan x="10" y="3546">209.  2017-04-25 11:18:04 +0000      222 bytes  docs/reference/coming-soon.md</tspan>
+<tspan x="10" y="3562">210.  2017-04-25 11:18:04 +0000     6628 bytes  docs/rendering.md</tspan>
+<tspan x="10" y="3578">211.  2017-04-25 11:18:04 +0000     1883 bytes  docs/rollup.md</tspan>
+<tspan x="10" y="3594">212.  2017-04-25 11:18:04 +0000     3131 bytes  docs/server-side-rendering.md</tspan>
+<tspan x="10" y="3610">213.  2017-04-25 11:18:04 +0000      559 bytes  docs/structure.json</tspan>
+<tspan x="10" y="3626">214.  2017-04-25 11:18:04 +0000     7329 bytes  docs/syntax.md</tspan>
+<tspan x="10" y="3642">215.  2017-04-25 11:18:04 +0000     3360 bytes  docs/webpack.md</tspan>
+<tspan x="10" y="3658">216.  2017-04-25 11:18:04 +0000     1404 bytes  express.js</tspan>
+<tspan x="10" y="3674">217.  2017-04-25 11:18:04 +0000      338 bytes  helpers/README.md</tspan>
+<tspan x="10" y="3690">218.  2017-04-25 11:18:04 +0000       98 bytes  helpers/empty.js</tspan>
+<tspan x="10" y="3706">219.  2017-04-25 11:18:04 +0000      220 bytes  helpers/notEmpty.js</tspan>
+<tspan x="10" y="3722">220.  2017-04-25 11:18:04 +0000     5659 bytes  hot-reload/index.js</tspan>
+<tspan x="10" y="3738">221.  2017-04-25 11:18:04 +0000       43 bytes  html.js</tspan>
+<tspan x="10" y="3754">222.  2017-04-25 11:18:04 +0000     1809 bytes  jquery.js</tspan>
+<tspan x="10" y="3770">223.  2017-04-25 11:18:04 +0000    13284 bytes  morphdom/index.js</tspan>
+<tspan x="10" y="3786">224.  2017-04-25 11:18:04 +0000     2451 bytes  morphdom/specialElHandlers.js</tspan>
+<tspan x="10" y="3802">225.  2017-04-25 11:18:04 +0000       32 bytes  node-require-browser.js</tspan>
+<tspan x="10" y="3818">226.  2017-04-25 11:18:04 +0000     5004 bytes  node-require.js</tspan>
+<tspan x="10" y="3834">227.  2017-04-25 11:18:04 +0000     6830 bytes  package.json</tspan>
+<tspan x="10" y="3850">228.  2017-04-25 11:18:04 +0000     4614 bytes  ready.js</tspan>
+<tspan x="10" y="3866">229.  2017-04-25 11:18:04 +0000     2112 bytes  runtime/RenderResult.js</tspan>
+<tspan x="10" y="3882">230.  2017-04-25 11:18:04 +0000       89 bytes  runtime/compiler.browser.json</tspan>
+<tspan x="10" y="3898">231.  2017-04-25 11:18:04 +0000      247 bytes  runtime/createOut.js</tspan>
+<tspan x="10" y="3914">232.  2017-04-25 11:18:04 +0000       94 bytes  runtime/dependencies/html.js</tspan>
+<tspan x="10" y="3930">233.  2017-04-25 11:18:04 +0000     2376 bytes  runtime/dependencies/index.js</tspan>
+<tspan x="10" y="3946">234.  2017-04-25 11:18:04 +0000       94 bytes  runtime/dependencies/vdom.js</tspan>
+<tspan x="10" y="3962">235.  2017-04-25 11:18:04 +0000     2892 bytes  runtime/dom-insert.js</tspan>
+<tspan x="10" y="3978">236.  2017-04-25 11:18:04 +0000     1319 bytes  runtime/env-init.js</tspan>
+<tspan x="10" y="3994">237.  2017-04-25 11:18:04 +0000       80 bytes  runtime/events.js</tspan>
+<tspan x="10" y="4010">238.  2017-04-25 11:18:04 +0000      840 bytes  runtime/helper-forEachPropStatusVar.js</tspan>
+<tspan x="10" y="4026">239.  2017-04-25 11:18:04 +0000      580 bytes  runtime/helper-forEachProperty.js</tspan>
+<tspan x="10" y="4042">240.  2017-04-25 11:18:04 +0000      799 bytes  runtime/helper-forEachWithStatusVar.js</tspan>
+<tspan x="10" y="4058">241.  2017-04-25 11:18:04 +0000      342 bytes  runtime/helper-forRange.js</tspan>
+<tspan x="10" y="4074">242.  2017-04-25 11:18:04 +0000      499 bytes  runtime/helper-loadNestedTag.js</tspan>
+<tspan x="10" y="4090">243.  2017-04-25 11:18:04 +0000       65 bytes  runtime/helper-loadTemplate.js</tspan>
+<tspan x="10" y="4106">244.  2017-04-25 11:18:04 +0000      377 bytes  runtime/helper-merge.js</tspan>
+<tspan x="10" y="4122">245.  2017-04-25 11:18:04 +0000      365 bytes  runtime/helper-mergeNestedTags.js</tspan>
+<tspan x="10" y="4138">246.  2017-04-25 11:18:04 +0000     3119 bytes  runtime/helpers.js</tspan>
+<tspan x="10" y="4154">247.  2017-04-25 11:18:04 +0000    14639 bytes  runtime/html/AsyncStream.js</tspan>
+<tspan x="10" y="4170">248.  2017-04-25 11:18:04 +0000      928 bytes  runtime/html/BufferedWriter.js</tspan>
+<tspan x="10" y="4186">249.  2017-04-25 11:18:04 +0000      377 bytes  runtime/html/StringWriter.js</tspan>
+<tspan x="10" y="4202">250.  2017-04-25 11:18:04 +0000      632 bytes  runtime/html/Template.js</tspan>
+<tspan x="10" y="4218">251.  2017-04-25 11:18:04 +0000     1346 bytes  runtime/html/escape.js</tspan>
+<tspan x="10" y="4234">252.  2017-04-25 11:18:04 +0000      925 bytes  runtime/html/helper-attr.js</tspan>
+<tspan x="10" y="4250">253.  2017-04-25 11:18:04 +0000      354 bytes  runtime/html/helper-attrs.js</tspan>
+<tspan x="10" y="4266">254.  2017-04-25 11:18:04 +0000      130 bytes  runtime/html/helper-createInlineTemplate.js</tspan>
+<tspan x="10" y="4282">255.  2017-04-25 11:18:04 +0000     4676 bytes  runtime/html/helpers.js</tspan>
+<tspan x="10" y="4298">256.  2017-04-25 11:18:04 +0000      803 bytes  runtime/html/index.js</tspan>
+<tspan x="10" y="4314">257.  2017-04-25 11:18:04 +0000      221 bytes  runtime/index.js</tspan>
+<tspan x="10" y="4330">258.  2017-04-25 11:18:04 +0000      132 bytes  runtime/loader/browser.json</tspan>
+<tspan x="10" y="4346">259.  2017-04-25 11:18:04 +0000      244 bytes  runtime/loader/index-browser-dynamic.js</tspan>
+<tspan x="10" y="4362">260.  2017-04-25 11:18:04 +0000      110 bytes  runtime/loader/index-browser.js</tspan>
+<tspan x="10" y="4378">261.  2017-04-25 11:18:04 +0000     5076 bytes  runtime/loader/index-default.js</tspan>
+<tspan x="10" y="4394">262.  2017-04-25 11:18:04 +0000      247 bytes  runtime/loader/index.js</tspan>
+<tspan x="10" y="4410">263.  2017-04-25 11:18:04 +0000      768 bytes  runtime/nextTick-browser.js</tspan>
+<tspan x="10" y="4426">264.  2017-04-25 11:18:04 +0000       35 bytes  runtime/nextTick.js</tspan>
+<tspan x="10" y="4442">265.  2017-04-25 11:18:04 +0000      163 bytes  runtime/package.json</tspan>
+<tspan x="10" y="4458">266.  2017-04-25 11:18:04 +0000     4362 bytes  runtime/renderable.js</tspan>
+<tspan x="10" y="4474">267.  2017-04-25 11:18:04 +0000     1455 bytes  runtime/stream.js</tspan>
+<tspan x="10" y="4490">268.  2017-04-25 11:18:04 +0000     8350 bytes  runtime/vdom/AsyncVDOMBuilder.js</tspan>
+<tspan x="10" y="4506">269.  2017-04-25 11:18:04 +0000      454 bytes  runtime/vdom/VComment.js</tspan>
+<tspan x="10" y="4522">270.  2017-04-25 11:18:04 +0000      777 bytes  runtime/vdom/VDocumentFragment.js</tspan>
+<tspan x="10" y="4538">271.  2017-04-25 11:18:04 +0000    10756 bytes  runtime/vdom/VElement.js</tspan>
+<tspan x="10" y="4554">272.  2017-04-25 11:18:04 +0000     3388 bytes  runtime/vdom/VNode.js</tspan>
+<tspan x="10" y="4570">273.  2017-04-25 11:18:04 +0000      460 bytes  runtime/vdom/VText.js</tspan>
+<tspan x="10" y="4586">274.  2017-04-25 11:18:04 +0000      131 bytes  runtime/vdom/helper-createInlineTemplate.js</tspan>
+<tspan x="10" y="4602">275.  2017-04-25 11:18:04 +0000      969 bytes  runtime/vdom/helper-styleAttr.js</tspan>
+<tspan x="10" y="4618">276.  2017-04-25 11:18:04 +0000     1076 bytes  runtime/vdom/helpers.js</tspan>
+<tspan x="10" y="4634">277.  2017-04-25 11:18:04 +0000      911 bytes  runtime/vdom/index.js</tspan>
+<tspan x="10" y="4650">278.  2017-04-25 11:18:04 +0000      475 bytes  runtime/vdom/preserve-attrs.js</tspan>
+<tspan x="10" y="4666">279.  2017-04-25 11:18:04 +0000     3808 bytes  runtime/vdom/vdom.js</tspan>
+<tspan x="10" y="4682">280.  2017-04-25 11:18:04 +0000      410 bytes  stream.js</tspan>
+<tspan x="10" y="4698">281.  2017-04-25 11:18:04 +0000     1464 bytes  taglibs/async/async-fragment-to-await-transforme\</tspan>
 <tspan x="10" y="4714">r.js</tspan>
-<tspan x="10" y="4730">282.  2017-04-18 03:04:07 +0000      687 bytes  taglibs/async/await-nested-tag-transformer.js</tspan>
-<tspan x="10" y="4746">283.  2017-04-18 03:04:07 +0000     2605 bytes  taglibs/async/await-reorderer-tag.js</tspan>
-<tspan x="10" y="4762">284.  2017-04-18 03:04:07 +0000     2967 bytes  taglibs/async/await-tag-transformer.js</tspan>
-<tspan x="10" y="4778">285.  2017-04-18 03:04:07 +0000     7561 bytes  taglibs/async/await-tag.js</tspan>
-<tspan x="10" y="4794">286.  2017-04-18 03:04:07 +0000       28 bytes  taglibs/async/client-reorder-browser.js</tspan>
-<tspan x="10" y="4810">287.  2017-04-18 03:04:07 +0000      912 bytes  taglibs/async/client-reorder-runtime.js</tspan>
-<tspan x="10" y="4826">288.  2017-04-18 03:04:07 +0000      340 bytes  taglibs/async/client-reorder-runtime.min.js</tspan>
-<tspan x="10" y="4842">289.  2017-04-18 03:04:07 +0000      300 bytes  taglibs/async/client-reorder.js</tspan>
-<tspan x="10" y="4858">290.  2017-04-18 03:04:07 +0000     4066 bytes  taglibs/async/marko.json</tspan>
-<tspan x="10" y="4874">291.  2017-04-18 03:04:07 +0000       87 bytes  taglibs/async/package.json</tspan>
-<tspan x="10" y="4890">292.  2017-04-18 03:04:07 +0000      412 bytes  taglibs/cache/cached-fragment-tag-transformer.js</tspan>
-<tspan x="10" y="4906">293.  2017-04-18 03:04:07 +0000     1521 bytes  taglibs/cache/cached-fragment-tag.js</tspan>
-<tspan x="10" y="4922">294.  2017-04-18 03:04:07 +0000      842 bytes  taglibs/cache/default-cache-manager.js</tspan>
-<tspan x="10" y="4938">295.  2017-04-18 03:04:07 +0000      244 bytes  taglibs/cache/marko.json</tspan>
-<tspan x="10" y="4954">296.  2017-04-18 03:04:07 +0000       58 bytes  taglibs/compiler.browser.json</tspan>
-<tspan x="10" y="4970">297.  2017-04-18 03:04:07 +0000      747 bytes  taglibs/core/assign-tag.js</tspan>
-<tspan x="10" y="4986">298.  2017-04-18 03:04:07 +0000      302 bytes  taglibs/core/class-tag.js</tspan>
-<tspan x="10" y="5002">299.  2017-04-18 03:04:07 +0000     7548 bytes  taglibs/core/core-transformer.js</tspan>
-<tspan x="10" y="5018">300.  2017-04-18 03:04:07 +0000      735 bytes  taglibs/core/else-if-tag.js</tspan>
-<tspan x="10" y="5034">301.  2017-04-18 03:04:07 +0000     1088 bytes  taglibs/core/else-tag.js</tspan>
-<tspan x="10" y="5050">302.  2017-04-18 03:04:07 +0000      600 bytes  taglibs/core/for-tag.js</tspan>
-<tspan x="10" y="5066">303.  2017-04-18 03:04:07 +0000      687 bytes  taglibs/core/if-tag.js</tspan>
-<tspan x="10" y="5082">304.  2017-04-18 03:04:07 +0000     1350 bytes  taglibs/core/import-tag.js</tspan>
-<tspan x="10" y="5098">305.  2017-04-18 03:04:07 +0000      626 bytes  taglibs/core/include-html-tag-browser.js</tspan>
-<tspan x="10" y="5114">306.  2017-04-18 03:04:07 +0000      919 bytes  taglibs/core/include-html-tag.js</tspan>
-<tspan x="10" y="5130">307.  2017-04-18 03:04:07 +0000      748 bytes  taglibs/core/include-tag-transformer.js</tspan>
-<tspan x="10" y="5146">308.  2017-04-18 03:04:07 +0000     1058 bytes  taglibs/core/include-tag.js</tspan>
-<tspan x="10" y="5162">309.  2017-04-18 03:04:07 +0000      626 bytes  taglibs/core/include-text-tag-browser.js</tspan>
-<tspan x="10" y="5178">310.  2017-04-18 03:04:07 +0000      874 bytes  taglibs/core/include-text-tag.js</tspan>
-<tspan x="10" y="5194">311.  2017-04-18 03:04:07 +0000      901 bytes  taglibs/core/invoke-tag.js</tspan>
-<tspan x="10" y="5210">312.  2017-04-18 03:04:07 +0000      228 bytes  taglibs/core/macro-body-tag.js</tspan>
-<tspan x="10" y="5226">313.  2017-04-18 03:04:07 +0000      857 bytes  taglibs/core/macro-tag.js</tspan>
-<tspan x="10" y="5242">314.  2017-04-18 03:04:07 +0000       85 bytes  taglibs/core/marko-preserve-whitespace-tag.js</tspan>
-<tspan x="10" y="5258">315.  2017-04-18 03:04:07 +0000    10613 bytes  taglibs/core/marko.json</tspan>
-<tspan x="10" y="5274">316.  2017-04-18 03:04:07 +0000      157 bytes  taglibs/core/package.json</tspan>
-<tspan x="10" y="5290">317.  2017-04-18 03:04:07 +0000      518 bytes  taglibs/core/static-tag.js</tspan>
-<tspan x="10" y="5306">318.  2017-04-18 03:04:07 +0000      738 bytes  taglibs/core/unless-tag.js</tspan>
-<tspan x="10" y="5322">319.  2017-04-18 03:04:07 +0000      624 bytes  taglibs/core/util/createLoopNode.js</tspan>
-<tspan x="10" y="5338">320.  2017-04-18 03:04:07 +0000    10823 bytes  taglibs/core/util/parseFor.js</tspan>
-<tspan x="10" y="5354">321.  2017-04-18 03:04:07 +0000     2328 bytes  taglibs/core/util/parseImport.js</tspan>
-<tspan x="10" y="5370">322.  2017-04-18 03:04:07 +0000     1091 bytes  taglibs/core/var-tag.js</tspan>
-<tspan x="10" y="5386">323.  2017-04-18 03:04:07 +0000      362 bytes  taglibs/core/while-tag.js</tspan>
-<tspan x="10" y="5402">324.  2017-04-18 03:04:07 +0000      222 bytes  taglibs/html/html-comment-tag.js</tspan>
-<tspan x="10" y="5418">325.  2017-04-18 03:04:07 +0000    58872 bytes  taglibs/html/marko.json</tspan>
-<tspan x="10" y="5434">326.  2017-04-18 03:04:07 +0000     1626 bytes  taglibs/layout/marko.json</tspan>
-<tspan x="10" y="5450">327.  2017-04-18 03:04:07 +0000     1027 bytes  taglibs/layout/placeholder-tag.js</tspan>
-<tspan x="10" y="5466">328.  2017-04-18 03:04:07 +0000      615 bytes  taglibs/layout/put-tag.js</tspan>
-<tspan x="10" y="5482">329.  2017-04-18 03:04:07 +0000      559 bytes  taglibs/layout/use-tag.js</tspan>
-<tspan x="10" y="5498">330.  2017-04-18 03:04:07 +0000     4316 bytes  taglibs/svg/marko.json</tspan>
-<tspan x="10" y="5514">331.  2017-04-18 03:04:07 +0000       43 bytes  vdom.js</tspan>
+<tspan x="10" y="4730">282.  2017-04-25 11:18:04 +0000      687 bytes  taglibs/async/await-nested-tag-transformer.js</tspan>
+<tspan x="10" y="4746">283.  2017-04-25 11:18:04 +0000     2605 bytes  taglibs/async/await-reorderer-tag.js</tspan>
+<tspan x="10" y="4762">284.  2017-04-25 11:18:04 +0000     2967 bytes  taglibs/async/await-tag-transformer.js</tspan>
+<tspan x="10" y="4778">285.  2017-04-25 11:18:04 +0000     7561 bytes  taglibs/async/await-tag.js</tspan>
+<tspan x="10" y="4794">286.  2017-04-25 11:18:04 +0000       28 bytes  taglibs/async/client-reorder-browser.js</tspan>
+<tspan x="10" y="4810">287.  2017-04-25 11:18:04 +0000      912 bytes  taglibs/async/client-reorder-runtime.js</tspan>
+<tspan x="10" y="4826">288.  2017-04-25 11:18:04 +0000      340 bytes  taglibs/async/client-reorder-runtime.min.js</tspan>
+<tspan x="10" y="4842">289.  2017-04-25 11:18:04 +0000      300 bytes  taglibs/async/client-reorder.js</tspan>
+<tspan x="10" y="4858">290.  2017-04-25 11:18:04 +0000     4066 bytes  taglibs/async/marko.json</tspan>
+<tspan x="10" y="4874">291.  2017-04-25 11:18:04 +0000       87 bytes  taglibs/async/package.json</tspan>
+<tspan x="10" y="4890">292.  2017-04-25 11:18:04 +0000      412 bytes  taglibs/cache/cached-fragment-tag-transformer.js</tspan>
+<tspan x="10" y="4906">293.  2017-04-25 11:18:04 +0000     1521 bytes  taglibs/cache/cached-fragment-tag.js</tspan>
+<tspan x="10" y="4922">294.  2017-04-25 11:18:04 +0000      842 bytes  taglibs/cache/default-cache-manager.js</tspan>
+<tspan x="10" y="4938">295.  2017-04-25 11:18:04 +0000      244 bytes  taglibs/cache/marko.json</tspan>
+<tspan x="10" y="4954">296.  2017-04-25 11:18:04 +0000       58 bytes  taglibs/compiler.browser.json</tspan>
+<tspan x="10" y="4970">297.  2017-04-25 11:18:04 +0000      747 bytes  taglibs/core/assign-tag.js</tspan>
+<tspan x="10" y="4986">298.  2017-04-25 11:18:04 +0000      302 bytes  taglibs/core/class-tag.js</tspan>
+<tspan x="10" y="5002">299.  2017-04-25 11:18:04 +0000     7548 bytes  taglibs/core/core-transformer.js</tspan>
+<tspan x="10" y="5018">300.  2017-04-25 11:18:04 +0000      735 bytes  taglibs/core/else-if-tag.js</tspan>
+<tspan x="10" y="5034">301.  2017-04-25 11:18:04 +0000     1088 bytes  taglibs/core/else-tag.js</tspan>
+<tspan x="10" y="5050">302.  2017-04-25 11:18:04 +0000      600 bytes  taglibs/core/for-tag.js</tspan>
+<tspan x="10" y="5066">303.  2017-04-25 11:18:04 +0000      687 bytes  taglibs/core/if-tag.js</tspan>
+<tspan x="10" y="5082">304.  2017-04-25 11:18:04 +0000     1350 bytes  taglibs/core/import-tag.js</tspan>
+<tspan x="10" y="5098">305.  2017-04-25 11:18:04 +0000      626 bytes  taglibs/core/include-html-tag-browser.js</tspan>
+<tspan x="10" y="5114">306.  2017-04-25 11:18:04 +0000      919 bytes  taglibs/core/include-html-tag.js</tspan>
+<tspan x="10" y="5130">307.  2017-04-25 11:18:04 +0000      748 bytes  taglibs/core/include-tag-transformer.js</tspan>
+<tspan x="10" y="5146">308.  2017-04-25 11:18:04 +0000     1058 bytes  taglibs/core/include-tag.js</tspan>
+<tspan x="10" y="5162">309.  2017-04-25 11:18:04 +0000      626 bytes  taglibs/core/include-text-tag-browser.js</tspan>
+<tspan x="10" y="5178">310.  2017-04-25 11:18:04 +0000      874 bytes  taglibs/core/include-text-tag.js</tspan>
+<tspan x="10" y="5194">311.  2017-04-25 11:18:04 +0000      901 bytes  taglibs/core/invoke-tag.js</tspan>
+<tspan x="10" y="5210">312.  2017-04-25 11:18:04 +0000      228 bytes  taglibs/core/macro-body-tag.js</tspan>
+<tspan x="10" y="5226">313.  2017-04-25 11:18:04 +0000      857 bytes  taglibs/core/macro-tag.js</tspan>
+<tspan x="10" y="5242">314.  2017-04-25 11:18:04 +0000       85 bytes  taglibs/core/marko-preserve-whitespace-tag.js</tspan>
+<tspan x="10" y="5258">315.  2017-04-25 11:18:04 +0000    10613 bytes  taglibs/core/marko.json</tspan>
+<tspan x="10" y="5274">316.  2017-04-25 11:18:04 +0000      157 bytes  taglibs/core/package.json</tspan>
+<tspan x="10" y="5290">317.  2017-04-25 11:18:04 +0000      518 bytes  taglibs/core/static-tag.js</tspan>
+<tspan x="10" y="5306">318.  2017-04-25 11:18:04 +0000      738 bytes  taglibs/core/unless-tag.js</tspan>
+<tspan x="10" y="5322">319.  2017-04-25 11:18:04 +0000      624 bytes  taglibs/core/util/createLoopNode.js</tspan>
+<tspan x="10" y="5338">320.  2017-04-25 11:18:04 +0000    10823 bytes  taglibs/core/util/parseFor.js</tspan>
+<tspan x="10" y="5354">321.  2017-04-25 11:18:04 +0000     2328 bytes  taglibs/core/util/parseImport.js</tspan>
+<tspan x="10" y="5370">322.  2017-04-25 11:18:04 +0000     1091 bytes  taglibs/core/var-tag.js</tspan>
+<tspan x="10" y="5386">323.  2017-04-25 11:18:04 +0000      362 bytes  taglibs/core/while-tag.js</tspan>
+<tspan x="10" y="5402">324.  2017-04-25 11:18:04 +0000      222 bytes  taglibs/html/html-comment-tag.js</tspan>
+<tspan x="10" y="5418">325.  2017-04-25 11:18:04 +0000    58872 bytes  taglibs/html/marko.json</tspan>
+<tspan x="10" y="5434">326.  2017-04-25 11:18:04 +0000     1626 bytes  taglibs/layout/marko.json</tspan>
+<tspan x="10" y="5450">327.  2017-04-25 11:18:04 +0000     1027 bytes  taglibs/layout/placeholder-tag.js</tspan>
+<tspan x="10" y="5466">328.  2017-04-25 11:18:04 +0000      615 bytes  taglibs/layout/put-tag.js</tspan>
+<tspan x="10" y="5482">329.  2017-04-25 11:18:04 +0000      559 bytes  taglibs/layout/use-tag.js</tspan>
+<tspan x="10" y="5498">330.  2017-04-25 11:18:04 +0000     4316 bytes  taglibs/svg/marko.json</tspan>
+<tspan x="10" y="5514">331.  2017-04-25 11:18:04 +0000       43 bytes  vdom.js</tspan>
 </text>
 </svg>
