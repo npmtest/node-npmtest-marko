@@ -1,6 +1,7 @@
 # npmtest-marko
 
-test coverage for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-marko.svg)](https://travis-ci.org/npmtest/node-npmtest-marko)
+#### basic test coverage for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-marko.svg)](https://travis-ci.org/npmtest/node-npmtest-marko)
+
 #### Marko is an extensible, streaming, asynchronous, high performance, HTML-based templating language that can be used in Node.js or in the browser.
 
 [![NPM](https://nodei.co/npm/marko.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/marko)
@@ -9,7 +10,7 @@ test coverage for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https:
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-marko/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-marko/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-marko/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-marko/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-marko/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-marko/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-marko/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-marko/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-marko/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-marko/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-marko/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-marko/build/coverage.html/index.html)
 
